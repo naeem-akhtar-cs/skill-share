@@ -1,0 +1,150 @@
+{
+  "sidePanelButtons": {
+    "CREATE": [
+      "Animation",
+      "Creative Writing",
+      "Film & Video",
+      "Fine Art",
+      "Graphic Design",
+      "Illustration",
+      "Music",
+      "Photography",
+      "UI/UX Design",
+      "Web Development"
+    ],
+    "BUILD": [
+      "Business Analytics",
+      "Freelance & Entrepreneurship",
+      "Leadership & Management",
+      "Marketing"
+    ],
+    "THRIVE": ["LifeStyle", "Productivity"]
+  },
+  "topImg": "images/1.jpg",
+  "topClass": {
+    "frontImage": "images/original.jpeg",
+    "title": "Coloured Pencil Drawing Fundamentals: Create A Realistic Portrait",
+    "profileImg": "images/user-image-medium.webp",
+    "teacherName": "Temi Danso",
+    "category": "Portrait Artist",
+    "students": "280",
+    "time": "37m"
+  },
+  "Classes": {
+    "Featured Classes": [
+      {
+        "img": "images/staff.jpeg",
+        "students": "18,683",
+        "time": "37m",
+        "title": "Do Things, Tell People: The Power of Personal Branding",
+        "teacherName": "Hamza Khan"
+      },
+      {
+        "img": "images/original(1).jpeg",
+        "students": "39",
+        "time": "1h 17m",
+        "title": "Writer's Block: A Practical Guide to Beat it.",
+        "teacherName": "Aram Atkinson"
+      },
+      {
+        "img": "images/original(2).jpeg",
+        "students": "876",
+        "time": "25m",
+        "title": "Make Your Creative Space: A Simple & Inspiring Guide",
+        "teacherName": "Mimi Chao"
+      }
+    ],
+    "Popular Classes": [
+      {
+        "img": "images/original(3).jpeg",
+        "students": "59,803",
+        "time": "1h 55m",
+        "title": "Productivity Masterclass - Principles and Tools to Boost Your Productivity",
+        "teacherName": "Ali Abdaal"
+      },
+      {
+        "img": "images/original(4).jpeg",
+        "students": "37,772",
+        "time": "1h 14m",
+        "title": "YouTube Success: Script, Shoot & Edit with MKBHD",
+        "teacherName": "Marques Brownlee"
+      },
+      {
+        "img": "images/original(5).jpeg",
+        "students": "31,965",
+        "time": "1h",
+        "title": "Procreate for Beginners: Learn the Basics & Sell Your Artwork",
+        "teacherName": "Cat Coquillette"
+      },
+      {
+        "img": "images/original(6).jpeg",
+        "students": "76,844",
+        "time": "6h 52m",
+        "title": "Adobe Illustrator CC – Essentials Training",
+        "teacherName": "Daniel Scott"
+      },
+      {
+        "img": "images/original(7).jpeg",
+        "students": "89,015",
+        "time": "3h 22m",
+        "title": "Video Editing with Adobe Premiere Pro for Beginners",
+        "teacherName": "Jordy Vandeput"
+      },
+      {
+        "img": "images/original(4).jpeg",
+        "students": "117,918",
+        "time": "56m",
+        "title": "iPhone Photography: How to Take Pro Photos On Your iPhone",
+        "teacherName": "Dale McManus"
+      }
+    ],
+    "Trending Classes": [
+      {
+        "img": "images/original(9).jpeg",
+        "students": "41,026",
+        "time": "1h 13m",
+        "title": "Find Your Style: Five Exercises to Unlock Your Creative Identity",
+        "teacherName": "Andy J. Pizza"
+      },
+      {
+        "img": "images/original(10).jpeg",
+        "students": "21,612",
+        "time": "40m",
+        "title": "Art Journaling for Self-Care: 3 Exercises for Reflection and Growth",
+        "teacherName": "Amanda Rach Lee"
+      },
+      {
+        "img": "images/original(11).jpeg",
+        "students": "17,677",
+        "time": "43m",
+        "title": "Start Drawing: 3 Fun, Freeing Exercises to Spark Your Creativity",
+        "teacherName": "Carly Kuhn"
+      },
+      {
+        "img": "images/original(12).jpeg",
+        "students": "19,906",
+        "time": "48m",
+        "title": "Start Your Creative Career: Build a Sharp, Smart Online Presence",
+        "teacherName": "Sonja Rasula"
+      },
+      {
+        "img": "images/original(13).jpeg",
+        "students": "17,318",
+        "time": "50m",
+        "title": "Plants at Home: Uplift Your Spirit & Your Space",
+        "teacherName": "Christopher Griffin"
+      },
+      {
+        "img": "images/original(14).jpeg",
+        "students": "8,665",
+        "time": "1h 22m",
+        "title": "Holistic Interior Design: Transform Your Personal Space for Well-Being",
+        "teacherName": "Clear Studios"
+      }
+    ]
+  },
+  "bottomExplanation": {
+    "title": "Explore Your Creativity",
+    "description": "Take the next step on your creative journey. With these Skillshare classes, you can explore a range of topics, tools, and techniques, from photography and graphic design, to drawing and animation. Whether you’re looking for art classes for beginners or you’re an experienced professional, you can take your skills to the next level with online classes in software like Photoshop, Procreate and After Effects, or learning handmade techniques in painting, hand lettering, and illustration. Make a film, give your home a makeover, start a freelance business. There’s so much inspiration to explore on Skillshare, and you’ll get hands-on experience by completing and sharing your own projects."
+  }
+}
